@@ -6,8 +6,8 @@
 - 📫 How to reach me **ahmed.ali.mo7amed@gmail.com**
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ahmedalimo7amed&label=Profile%20views&color=d60000&style=flat" alt="ahmedalimo7amed" height="30" width="230" />
-    <img src="https://img.shields.io/github/followers/ahmedalimo7amed?label=Followers&color=800000&style=flat" alt="ahmedalimo7amed" height="30" width="150" />
+    <img src="https://komarev.com/ghpvc/?username=ahmedalimo7amed&label=Profile%20views&color=d60000&style=flat" alt="ahmedalimo7amed" height="40" width="230" />
+    <img src="https://img.shields.io/github/followers/ahmedalimo7amed?label=Followers&color=800000&style=flat" alt="ahmedalimo7amed" height="40" width="150" />
 </p>
 
 <p align="center">
