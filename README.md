@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Software Engineer | PHP &amp; Laravel Specialist
+  Software Engineer | PHP &amp; Laravel Developer
 </h3>
 
 <p align="center">
